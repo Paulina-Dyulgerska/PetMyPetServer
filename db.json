@@ -6,7 +6,7 @@
       "description": "My dog Yara. 2 months old. doggy hjkhjk",
       "imageURL": "https://cdn1-www.dogtime.com/assets/uploads/2017/09/pit-bull-puppies-2.jpg",
       "category": "Dogs",
-      "likes": 13,
+      "likes": 28,
       "_acl": {
         "creator": "5bb0874caccb650325e0227b"
       },
@@ -21,7 +21,7 @@
       "description": "Koko is my parrot and he is very funny parrot!",
       "imageURL": "https://cdn.omlet.co.uk/images/originals/fischer's-lovebird.jpg",
       "category": "Parrots",
-      "likes": 11,
+      "likes": 51,
       "_acl": {
         "creator": "5bb088003e67d9190597f9a6"
       },
@@ -36,7 +36,7 @@
       "description": "This is my horse Spirit. He is 5 years old. He likes to run around like crazy and go to horse races.",
       "imageURL": "https://bransbyhorses.co.uk/wp-content/uploads/2016/03/Sophie.jpg",
       "category": "Others",
-      "likes": 18,
+      "likes": 25,
       "_acl": {
         "creator": "5bb088003e67d9190597f9a6"
       },
@@ -51,7 +51,7 @@
       "description": "This is my cat Tomy. He is 1 year old and likes to play with my snake Snaky",
       "imageURL": "https://www.bluecross.org.uk/sites/default/files/assets/images/finding%20the%20right%20cat%20for%20you.jpg",
       "category": "Cats",
-      "likes": 6,
+      "likes": 9,
       "_acl": {
         "creator": "5bb08c01eb7615589b4f360e"
       },
@@ -159,7 +159,7 @@
       "imageURL": "https://i.pinimg.com/736x/03/82/05/038205694ac92fc5bc3af8849901b305.jpg",
       "category": "Cats",
       "id": "jhJH1N5",
-      "likes": "0"
+      "likes": "5"
     }
   ]
 }
